@@ -1,1 +1,3 @@
 github giriş dersleri.
+
+2. commit
